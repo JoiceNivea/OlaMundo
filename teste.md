@@ -41,4 +41,5 @@ if num%2==0:
 else:
     print(f'o valor {num} é ÍMPAR')
 ```
-:hungs
+:hugs:
+
